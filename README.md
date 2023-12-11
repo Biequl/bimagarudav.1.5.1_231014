@@ -1,4 +1,4 @@
-# GarudaCBT
+# BimagarudaCBT
 
 ## Last version: 1.4.9
 
@@ -20,29 +20,6 @@
 - filter jadwal ujian
 ___________
 
-## NOTE:
-Aplikasi ini tidak diperjual belikan alias gratis 100% dengan lisensi MIT yang artinya bebas untuk memodifikasi dengan syarat tetap mencantumkan sumber asal.
-
-Kami selaku pengembang aplikasi ini tidak bertanggung-jawab:
-- jika ada yang mengharuskan membayar untuk mendapatkan aplikasi ini,
-- adanya masalah dari aplikasi yang sudah dimodif atau dirubah fiturnya oleh pihak lain.
-______________
-- [HOME](https://garudacbt.github.io/cbt)
-- [TUTORIAL INSTALL](https://github.com/garudacbt/cbt/wiki)
-
-____
-## Download
-Harap download aplikasi dari tombol [<> Code] -> Download zip
-
------
-## VIRTUAL BOX (VHD):
-https://github.com/origrata/garudacbt-vdi
-
-----
-## Install
-* Download Aplikasi dari menu **Code => Download ZIP**
-* Extract di folder **htdocs** jika menggunakan XAMPP, atau folder **www** jika mengonakan Laragon
-* Lengkapnya sialhkan ke [TUTORIAL INSTALL](https://github.com/garudacbt/cbt/wiki)
 ----
 ## Update
 * Download Aplikasi dari menu **Code => Download ZIP**
